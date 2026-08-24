@@ -10,7 +10,6 @@ Welcome to the **CDAC C-CAT (Centre for Development of Advanced Computing - Comm
 - [Overview & Exam Pattern](#-overview--exam-pattern)
 - [C-CAT Course Categories & Papers](#-c-cat-course-categories--papers)
 - [Critical Ranking & Section Qualification Rules](#-critical-ranking--section-qualification-rules)
-- [Target Centers & Cutoff Insights](#-target-centers--cutoff-insights)
 - [Repository Structure & Section Breakdown](#-repository-structure--section-breakdown)
   - [Section A: Quant, Reasoning, English & Fundamentals](#-section-a-quant-reasoning-english--fundamentals)
   - [Section B: Coding & Computer Science](#-section-b-coding--computer-science)
@@ -67,18 +66,6 @@ Understanding the official C-DAC ranking criteria is vital when planning your pr
 4. **Tie-Breaker Mechanism:**
    - If two or more candidates obtain the same total marks, the candidate with higher marks in **Section A** is awarded the higher rank.
    - If Section A marks are also tied, the candidate with the higher accuracy ratio (`correct answers / attempted questions`) in Section B (or Section C for Category III) is awarded the higher rank.
-
----
-
-## 🏆 Target Centers & Cutoff Insights
-
-To secure admission into top-choice courses (such as PG-DAC or PG-DBDA) at premier C-DAC centers:
-
-* **Top 500 Rank:** CDAC Pune (ACTS) & CDAC Bengaluru (Knowledge Park / Electronic City) — *Highest demand & top placement track record.*
-* **Top 1000 Rank:** CDAC Noida, CDAC Hyderabad, & IACSD Pune.
-* **Top 2000 Rank:** Sunbeam Pune/Karad, CDAC Mumbai, CDAC Thiruvananthapuram.
-
----
 
 ## 📂 Repository Structure & Section Breakdown
 
@@ -184,6 +171,15 @@ Contributions are always welcome! If you have well-documented notes, mock questi
 
 ---
 
+## 📬 Connect & Contact
+
+Curated and maintained with ❤️ for CDAC aspirants by **Saicharan Malyala**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saicharan%20Malyala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saicharan-malyala)
+
+Have suggestions, questions, or feedback about this study guide? Feel free to connect or reach out on [LinkedIn](https://www.linkedin.com/in/saicharan-malyala).
+
+---
 ## ⚠️ Disclaimer & Notice
 
 > [!IMPORTANT]
